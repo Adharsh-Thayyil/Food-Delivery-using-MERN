@@ -1,3 +1,5 @@
+<h1>How to run the project.</h1>
+
 Install NodeJs ( Ignore If Already Installed)
 
  1. Visit the official Node.js website i.e)
@@ -38,7 +40,7 @@ Install NodeJs ( Ignore If Already Installed)
  6. To Run Backend use npm run server in Integrated Terminal
  Steps To Run Frontend & Admin Panel Of The Project
  1. Open Project Folder In VS Code
- 2. Open Integrated Terminal in project directory
+ 2. Open Integrated Terminal in project directory <br/>
  ○ Right Click on Sidebar > Select “Open In Integrated
  Terminal”
  3. Type “npm install” and press Enter and Wait for
