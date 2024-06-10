@@ -14,22 +14,22 @@ Install NodeJs ( Ignore If Already Installed)
  Terminal”
  3. Type “npm install” and press Enter and Wait for
  Installation to be completed (requires Internet)
- 4. Setup The MongoDB
- a. Open this link- https://www.mongodb.com/cloud/atlas/register
- b. After that Sign Up on the website.
- c. Click on New Project Option
+ 4. Setup The MongoDB <br/>
+ a. Open this link- https://www.mongodb.com/cloud/atlas/register <br/>
+ b. After that Sign Up on the website. <br/>
+ c. Click on New Project Option <br/>
  d. After Creating Project go to Database Section &
- Build a database
- e. Select M0 & Your Region & Create Database
- f. Setup Username & Password & Create User
- Note: Do not use ‘@’ symbol in the password
- g. Now Click on Finish & Close
- h. Whitelist IP 0.0.0.0 & Click on Add Entry
- i. Now Click on Connect
- j. Now Select Compass Option
- k. And Copy the Connection String
+ Build a database <br/>
+ e. Select M0 & Your Region & Create Database <br/>
+ f. Setup Username & Password & Create User <br/>
+ **Note: Do not use ‘@’ symbol in the password**
+ g. Now Click on Finish & Close <br/>
+ h. Whitelist IP 0.0.0.0 & Click on Add Entry <br/>
+ i. Now Click on Connect <br/>
+ j. Now Select Compass Option <br/>
+ k. And Copy the Connection String <br/>
  l. And Paste It in db.js replace password with password
- you set previously in 4.F & save changes
+ you set previously in 4.F & save changes <br/>
  5. Now We have to Set Up stripe
  ● Open .env file in backend folder paste your stripe secret
  key in STRIPE_SECRET_KEY variable
