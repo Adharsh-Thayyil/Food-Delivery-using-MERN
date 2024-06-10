@@ -30,9 +30,9 @@ Install NodeJs ( Ignore If Already Installed)
  k. And Copy the Connection String <br/>
  l. And Paste It in db.js replace password with password
  you set previously in 4.F & save changes <br/>
- 5. Now We have to Set Up stripe
+ 5. Now We have to Set Up stripe <br/>
  ● Open .env file in backend folder paste your stripe secret
- key in STRIPE_SECRET_KEY variable
+ key in STRIPE_SECRET_KEY variable <br/>
  ● Now Open orderController file located in
  backend/controller folder & add your country currency
  6. To Run Backend use npm run server in Integrated Terminal
