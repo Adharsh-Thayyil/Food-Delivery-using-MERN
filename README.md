@@ -14,7 +14,7 @@ Open Project Folder In VS Code
 Open Integrated Terminal- Right Click on Sidebar > Select “Open In Integrated Terminal”
 Type “npm install” and press Enter and Wait for Installation to be completed (requires Internet)
 Setup The MongoDB
-a. Open this link- https://www.mongodb.com/cloud/atlas/register
+a. Open this link- https://www.mongodb.com/cloud/atlas/register <br>
 b. After that Sign Up on the website.
 c. Click on New Project Option
 d. After Creating Project go to Database Section & Build a database
